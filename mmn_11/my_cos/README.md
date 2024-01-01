@@ -77,6 +77,13 @@ $`cos(x) = 1 - \frac{x^2}{2!} + \frac{x^4}{4!} - \frac{x^6}{6!} + \ldots`$
 
 The custom `my_cos` function in `my_cos.c` uses this series to approximate the cosine of a given angle \(x\). The series is iteratively computed until the error term falls below the desired limit, which is set to $1.0 \times 10^{-6}$.
 
+### Additional Resources
+
+For a more in-depth understanding of Taylor series and their applications in mathematical functions, you can explore resources on [Wolfram MathWorld's Taylor Series Page](https://mathworld.wolfram.com/TaylorSeries.html).
+
+To delve into the mathematical concepts behind cosine functions and their approximations, you may find valuable insights on:
+- [Wolfram MathWorld's Cosine Page](https://mathworld.wolfram.com/Cosine.html).
+- [Wikipedia's Sine and Cosine Page](https://en.wikipedia.org/wiki/Sine_and_cosine).
 
 ## Build Details
 
