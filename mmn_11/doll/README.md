@@ -59,6 +59,7 @@ sudo apt-get install build-essential
 - To clean the build directory, run: `make clean`
 
 - To create a zip file for submission, run: `make zip`
+
 This will create a mmn11.zip file excluding unnecessary files.
 
 This program is released under the [MIT License](LICENSE).
