@@ -50,30 +50,18 @@ sudo apt-get install build-essential
 
 ## Build and Run
 
-To build the program, run:
+- To build the program, run: `make`
 
-```bash
-make
-```
-To execute the program, run:
+- To execute the program, run: `./build/bin/doll`
 
-```bash
-./build/bin/doll
-```
+- To execute the program, run: `./build/bin/doll`
 
-To clean the build directory, run:
+- To clean the build directory, run: `make clean`
 
-```bash
-make clean
-```
-
-### Zip Project
-To create a zip file for submission, run:
-
-```bash
-make zip
-```
+- To create a zip file for submission, run: `make zip`
 This will create a mmn11.zip file excluding unnecessary files.
+
+This program is released under the [MIT License](LICENSE).
 
 ### Author
 
