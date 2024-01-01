@@ -18,6 +18,32 @@ sudo apt-get update
 sudo apt-get install build-essential
 ```
 
+## Usage
+
+1. **Build the Program:**
+   - Open a terminal and navigate to the project directory.
+   - Run the command `make` to build the executable.
+
+2. **Run the Program:**
+   - After building, execute the program using `./build/bin/doll`.
+
+3. **Input Instructions:**
+   - Enter the dollar rate followed by shekel amounts in dollars (press Ctrl-D, EOF, or insert a non-integer to finish).
+   - The program will display a table of equivalent dollar amounts for each shekel value.
+
+## Code Details
+
+- **main.c:**
+  - The program uses an array to store shekel rates and calculates equivalent dollar amounts.
+  - It displays the results in a table format, including the total sum of dollar and shekel amounts.
+
+- **Makefile:**
+  - The Makefile automates the build process.
+  - It compiles the source code into an executable named `doll`.
+  - The `clean` target removes the build directory.
+  - The `zip` target creates a zip file excluding unnecessary files.
+
+
 ## Build and Run
 
 ### Build the Program:
