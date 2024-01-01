@@ -49,30 +49,30 @@ int main() {
 
     /* Input loop for shekel amounts */
     while (shekelCount < MAX_INPUT && scanf("%lf", &inputAmount) == 1) {
-        shekelRates[shekelCount] = inputAmount; /**< Storing shekel rate in dollars. */
-        shekelCount++; /**< Incrementing shekel counter. */
+        shekelRates[shekelCount] = inputAmount; /**< Storing shekel rate in dollars */
+        shekelCount++; /**< Incrementing shekel counter */
     }
 
     /* Calculation loop for dollar amounts */
     while (dollarCount < shekelCount) {
-        equivalentDollars[dollarCount - 1] = shekelRates[0] * shekelRates[dollarCount]; /**< Calculating equivalent dollar amounts. */
+        equivalentDollars[dollarCount - 1] = shekelRates[0] * shekelRates[dollarCount]; /**< Calculating equivalent dollar amounts */
 
         /* Storing the sum of the money values */
-        totalShekels += equivalentDollars[dollarCount - 1]; /**< Updating sum of shekel amounts. */
-        totalDollars += shekelRates[dollarCount]; /**< Updating sum of dollar amounts. */
-        dollarCount++; /**< Incrementing dollar counter. */
+        totalShekels += equivalentDollars[dollarCount - 1]; /**< Updating sum of shekel amounts */
+        totalDollars += shekelRates[dollarCount]; /**< Updating sum of dollar amounts */
+        dollarCount++; /**< Incrementing dollar counter */
     }
 
     /* Resetting counter for display loop */
-    dollarCount = 1; /**< Resetting dollar counter. */
+    dollarCount = 1; /**< Resetting dollar counter */
 
     /* Displaying the results */
     printf("%-12s%-12s\n", "$", "IS");
 
     /* Display loop */
     while (dollarCount < shekelCount) {
-        printf("%-12.2f%-12.2f\n", shekelRates[dollarCount], equivalentDollars[dollarCount - 1]); /**< Displaying amounts. */
-        dollarCount++; /**< Incrementing display counter. */
+        printf("%-12.2f%-12.2f\n", shekelRates[dollarCount], equivalentDollars[dollarCount - 1]); /**< Displaying amounts */
+        dollarCount++; /**< Incrementing display counter */
     }
 
     /* Displaying the sum */
