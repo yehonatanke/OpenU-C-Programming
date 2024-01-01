@@ -39,7 +39,7 @@ sudo apt-get install build-essential
 
 ## Code Details
 
-- **main.c:**
+- **doll.c:**
   - The program uses an array to store shekel rates and calculates equivalent dollar amounts.
   - It displays the results in a table format, including the total sum of dollar and shekel amounts.
 
