@@ -4,6 +4,12 @@
 
 This program, named **Dollar Converter**, is a C assignment designed to convert shekel amounts to dollars based on a given dollar rate. The assignment involves implementing user input, calculations, and output display.
 
+## File Structure
+
+- **doll.c**: The main program file containing the source code.
+- **Makefile**: The Makefile for building the program.
+
+
 ## Environment
 
 - **Operating System:** Ubuntu
@@ -87,6 +93,8 @@ sudo apt-get install build-essential
 - To create a zip file for submission, run: `make zip`
 
 This will create a mmn11.zip file excluding unnecessary files.
+
+## License
 
 This program is released under the [MIT License](LICENSE).
 
