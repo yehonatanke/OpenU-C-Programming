@@ -26,9 +26,10 @@ This repository is created to centralize and manage all the assignments, project
 
 ## Directory Structure
 
-- **assignment1/**: Description of the first assignment.
-- **assignment2/**: Description of the second assignment.
-- **project1/**: Description of the first project.
+- **mmn_11**:
+    - [*doll*](https://github.com/yehonatanke/OpenU-C-Programming/tree/main/mmn_11/doll): Dollar Converter.
+    - [*my_cos*](https://github.com/yehonatanke/OpenU-C-Programming/tree/main/mmn_11/my_cos): Cosine Calculator.
+- **mmn_12**:
 
 Feel free to explore each directory to find specific details, source code, and documentation for each task.
 
