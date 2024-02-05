@@ -33,6 +33,7 @@ This repository is created to centralize and manage all the assignments, project
     - [*my_cos*](https://github.com/yehonatanke/OpenU-C-Programming/tree/main/mmn_11/my_cos): Cosine Calculator.
 
 - **mmn_12**:
+  - [*get_name*](https://github.com/yehonatanke/OpenU-C-Programming/tree/main/mmn_12): Random Name Program.
 
 - **mmn_22**:
     - [*mainmat*](https://github.com/yehonatanke/OpenU-C-Programming/tree/main/mmn_22): Interactive Matrix Calculator.
