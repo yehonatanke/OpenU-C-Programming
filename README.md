@@ -74,4 +74,9 @@ If you have suggestions, improvements, or corrections, feel free to contribute! 
 
 ## License
 
-This repository is licensed under the [MIT License](https://github.com/yehonatanke/OpenU-C-Programming/blob/main/LICENSE). Feel free to use, modify, and distribute the content as per the terms of the license.
+This repository is licensed under the [MIT License](https://github.com/yehonatanke/OpenU-C-Programming/blob/main/LICENSE).
+Feel free to use, modify, and distribute the content as per the terms of the license.
+
+## Author
+
+yehonataKe
