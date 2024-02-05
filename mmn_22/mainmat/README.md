@@ -86,9 +86,9 @@ gcc main.c -o matrix_program
 Follow the on-screen prompts to interact with the matrix processing program.
 
 
-## License
-This matrix processing program is licensed under the [MIT License](./LICENSE).
-
+This repository is licensed under the [MIT License](https://github.com/yehonatanke/OpenU-C-Programming/blob/main/LICENSE).
+Feel free to use, modify, and distribute the content as per the terms of the license.
 
 ## Author
-yehonatakey
+
+yehonataKe
