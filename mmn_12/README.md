@@ -6,7 +6,7 @@
   <img src="https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law">
 </div>
 
-# Name Management Program
+# Random Name Program
 
 ## Overview
 This C program demonstrates the management of names, including functions for generating random names, checking duplicates, printing the list, and manipulating a list of names. The program reads 30 names, removes newline characters, checks for duplicates, prints the input list, and generates and prints 10 different random names.
