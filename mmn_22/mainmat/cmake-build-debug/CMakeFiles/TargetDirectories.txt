@@ -1,3 +1,0 @@
-/Users/yehonatankeypur/Programing Projects/C:C++/ממני״ם/mainmat/cmake-build-debug/CMakeFiles/mmn_22___edit.dir
-/Users/yehonatankeypur/Programing Projects/C:C++/ממני״ם/mainmat/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/yehonatankeypur/Programing Projects/C:C++/ממני״ם/mainmat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
