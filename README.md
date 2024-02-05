@@ -31,7 +31,11 @@ This repository is created to centralize and manage all the assignments, project
 - **mmn_11**:
     - [*doll*](https://github.com/yehonatanke/OpenU-C-Programming/tree/main/mmn_11/doll): Dollar Converter.
     - [*my_cos*](https://github.com/yehonatanke/OpenU-C-Programming/tree/main/mmn_11/my_cos): Cosine Calculator.
+
 - **mmn_12**:
+
+- **mmn_22**:
+    - [*mainmat*](https://github.com/yehonatanke/OpenU-C-Programming/tree/main/mmn_22): Interactive Matrix Calculator.
 
 Feel free to explore each directory to find specific details, source code, and documentation for each task.
 
