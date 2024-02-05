@@ -1,0 +1,5 @@
+read_mat MAT_G, 3.2, 8
+read_mat mat_a, 3.2, -5.3
+Add_Mat MAT_A, MAT_B, MAT_C
+read_mat MAT_A, abc, 567
+read_mat MAT_A, 3, -4.2, 6,

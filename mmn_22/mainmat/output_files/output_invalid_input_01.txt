@@ -1,0 +1,15 @@
+
+Hello,
+Please enter a command.
+The input is: read_mat MAT_G, 3.2, 8
+
+Please enter a command.
+The input is: read_mat mat_a, 3.2, -5.3
+
+Please enter a command.
+The input is: Add_Mat MAT_A, MAT_B, MAT_C
+
+Please enter a command.
+The input is: read_mat MAT_A, abc, 567
+
+Please enter a command.

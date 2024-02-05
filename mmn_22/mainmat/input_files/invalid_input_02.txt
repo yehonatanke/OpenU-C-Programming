@@ -1,0 +1,22 @@
+print_MAt MAT_B1
+print_mat
+read_mat MAT_A, 33e1, 21, 3,
+read_mat MAT_B, .,
+read_mat MAT_C,fff
+print_mat MAT_A,,,,
+print_mat
+PRINT MAT_C
+add_mat MAT_A MAT_B,,MAT_D
+MAT_D
+sub_mat MAT_B, ,MAT_A, ar
+mul_mat MAT_B,,, MAT_C MAT_F
+print_mat MAT_F,
+mul_scalar MAT_A, 12.5, ,MAT_A
+print_mat MAT_A,,
+trans_mat MAT_C, MAT_C,
+print_mat MAT_C,,
+read_mat MAT_B, 0,
+print_mat s
+mul_mat MAT_A,MAT_A,MA1T_A
+print_mat MAT_A1
+there is no stop command
