@@ -20,7 +20,7 @@ This C90 program implements a matrix processing application, providing functiona
   - [Globals](#globals)
 - [Matrix Operations](#matrix-operations)
 - [Makefile](#makefile)
-- [Platform](#platform)
+- [Language and Platform](#Language-and-Platform)
 - [Usage](#usage)
 - [License](#license)
 - [License](#license)
@@ -73,8 +73,9 @@ This C90 program implements a matrix processing application, providing functiona
     - Compiles the source files and creates an executable named `matrix_program`.
     - Run the program using `./matrix_program`.
 
-## Platform
-- The matrix processing program is developed and tested on the Ubuntu platform.
+## Language and Platform
+- **Language:** C90 programming language standard.
+- **Platform:** Ubuntu 16.04 operating system.
 
 ## Usage
 To use the matrix processing program, include the necessary header files in your project, and implement the functions based on your requirements. The main functionality of the program is located in [main.c](./main.c), where matrices are initialized, and the user input is processed in a loop until termination.
