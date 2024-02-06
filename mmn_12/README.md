@@ -18,6 +18,7 @@ This C program demonstrates the management of names, including functions for gen
   - [get_name_util.c](./get_name_util.c): Source file containing utility functions for managing a list of names.
 - [Constants](#constants)
 - [Utility Functions](#utility-functions)
+- [Language and Platform](#Language-and-Platform)
 - [Usage](#usage)
 - [License](#license)
 
@@ -47,6 +48,10 @@ gcc get_name.c get_name_util.c -o get_name
 ```
 
 Follow the on-screen prompts to interact with the name management program.
+
+## Language and Platform
+- **Language:** C90 programming language standard.
+- **Platform:** Ubuntu 16.04 operating system.
 
 ## License
 
