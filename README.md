@@ -37,6 +37,9 @@ This repository is created to centralize and manage all the assignments, project
 
 - **mmn_22**:
     - [*mainmat*](https://github.com/yehonatanke/OpenU-C-Programming/tree/main/mmn_22): Interactive Matrix Calculator.
+      
+- **mmn_23**:
+    - [*index*](https://github.com/yehonatanke/OpenU-C-Programming/tree/main/mmn_23): Lexicographic index creator.
 
 Feel free to explore each directory to find specific details, source code, and documentation for each task.
 
