@@ -2,7 +2,7 @@
 
 ## Overview
 
-This program, named **Dollar Converter**, is a C assignment designed to convert shekel amounts to dollars based on a given dollar rate. The assignment involves implementing user input, calculations, and output display.
+This program is a C assignment designed to convert shekel amounts to dollars based on a given dollar rate. The assignment involves implementing user input, calculations, and output display.
 
 ## Table of Contents
 1. [File Structure](#file-structure)
