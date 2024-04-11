@@ -11,7 +11,7 @@
 
 
 My work in Systems Programming Laboratory C course on the Linux platform.
-
+<br> All assignments with grade 100.
 
 ## Table of Contents
 
