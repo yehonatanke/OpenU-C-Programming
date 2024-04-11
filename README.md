@@ -7,10 +7,10 @@
   <img src="https://custom-icon-badges.demolab.com/github/license/denvercoder1/custom-icon-badges?logo=law">
 </div>
 
-# C Course Repository
+# Systems Programming Laboratory C Course Repository
 
 
-My work in the Open University C course on the Linux platform.
+My work in Systems Programming Laboratory C course on the Linux platform.
 
 
 ## Table of Contents
